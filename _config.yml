@@ -1,7 +1,7 @@
 # _config.yml
 
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://raulaguilarv.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "jekyllwind" # the subpath of your site, e.g. /blog
 title: "Jekyll + Tailwind" # the name of your site, e.g. ACME Corp.
 
 # Build settings
